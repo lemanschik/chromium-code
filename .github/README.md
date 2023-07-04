@@ -9,3 +9,8 @@ A Code-OSS Fork designed to run on the Chromium Platform
 - Includes AwesomeOS Extension Registry and AwesomeOS Private Extension Registry
 - Includes AwesomeOS VSCODE Extension for InterOP with Existing Legacy VSCODE Forks and VSCODE It self.
 - Includes Advanced AwesomeOS for Electron Developers GUIDE 
+
+## Features
+- Allows you to do Browser testing on a whole new Level via Integrating the Dev Environment into multiple Browsers
+- Gives you better errors and Coding Expirence via Correct Error Messages that happen on development and in Production
+  - Sounds Scary but today most systems report and produce different errors in development and production environments.
