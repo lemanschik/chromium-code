@@ -8,3 +8,4 @@ A Code-OSS Fork designed to run on the Chromium Platform
 - Includes NodeJS and Puppeteer For Compatability with the Legacy Ecosystems
 - Includes AwesomeOS Extension Registry and AwesomeOS Private Extension Registry
 - Includes AwesomeOS VSCODE Extension for InterOP with Existing Legacy VSCODE Forks and VSCODE It self.
+- Includes Advanced AwesomeOS for Electron Developers GUIDE 
