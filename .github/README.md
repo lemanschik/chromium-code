@@ -39,3 +39,15 @@ bash
 gist can also be added using the id of a gist:
 
 npm install gist/gist_id
+
+npm install git+https://github.com/orgorname/reponame.git
+
+or this flavor if you need SSH:
+npm install git+ssh://git@github.com/orgorname/reponame.git
+
+or if you need to install a GitHub Enterprise repository:
+
+npm install git+https://<github enterprise url>/<org>/<repo>.git#<branch>
+
+
+When you deal with multiple ssh keys and hosts configure that inside .ssh 
